@@ -1,0 +1,857 @@
+INFO 2024-09-29 15:34:41,241 autoreload Watching for file changes with StatReloader
+DEBUG 2024-09-29 15:34:41,241 autoreload Waiting for apps ready_event.
+DEBUG 2024-09-29 15:34:41,555 autoreload Main Django thread has terminated before apps are ready.
+DEBUG 2024-09-29 15:34:41,577 autoreload Apps ready_event triggered. Sending autoreload_started signal.
+DEBUG 2024-09-29 15:34:41,751 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\base64mime.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\header.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1727594788.5597558
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\contextlib.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1727594786.4817631
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\manage.py first seen with mtime 1727594860.123396
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\_parseaddr.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\warnings.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\apps\__init__.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\protocols.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\client.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1727594788.2628288
+DEBUG 2024-09-29 15:34:41,767 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\headerregistry.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,767 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,773 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,773 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ssl.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,774 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\weakref.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,774 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\multipart.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,775 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,775 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\enums.py first seen with mtime 1727594786.4817631
+DEBUG 2024-09-29 15:34:41,775 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1727594778.1039574
+DEBUG 2024-09-29 15:34:41,776 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,776 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,776 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\coroutines.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,776 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\version.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\__init__.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\datetime.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\string.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\apps\registry.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\decimal.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_tzpath.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\nonmultipart.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\futures.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\i18n.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_queue.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\base.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\textwrap.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1727594787.3253984
+DEBUG 2024-09-29 15:34:41,777 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\wsgiref\headers.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,777 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,783 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\base.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,783 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,783 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,784 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,784 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\forms.py first seen with mtime 1727594788.6534226
+DEBUG 2024-09-29 15:34:41,784 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\wsgiref\handlers.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,784 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\tree.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,785 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\_header_value_parser.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,785 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,785 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\backends\base.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,785 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\staggered.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,786 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,786 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\uuid.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,786 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1727594786.2629743
+DEBUG 2024-09-29 15:34:41,787 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\feedparser.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,787 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\logging\config.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,787 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_decimal.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,787 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,788 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\mixins.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,788 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,789 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\http\cookie.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,789 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,789 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,790 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ctypes\__init__.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1727594779.9475715
+DEBUG 2024-09-29 15:34:41,790 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\server.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\apps\config.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\conf.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,790 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\constants.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,790 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\policy.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1727594788.5597558
+DEBUG 2024-09-29 15:34:41,790 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,793 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_lzma.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,794 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\wsgiref\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,794 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,794 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\_compat_pickle.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,794 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1727594786.966105
+DEBUG 2024-09-29 15:34:41,794 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,795 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,795 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,795 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\copyreg.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,795 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1727594786.4660833
+DEBUG 2024-09-29 15:34:41,796 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,796 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\lzma.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,796 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,796 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\__init__.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,796 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\__init__.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,797 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\keyword.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,797 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1727594786.4817631
+DEBUG 2024-09-29 15:34:41,797 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\fields.py first seen with mtime 1727594788.6378615
+DEBUG 2024-09-29 15:34:41,797 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,798 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\utils.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,798 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,798 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\linecache.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,798 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1727594786.2629743
+DEBUG 2024-09-29 15:34:41,799 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,799 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\pathlib.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,799 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\locks.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\timeouts.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\utils.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\encodings\utf_8.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1727594786.997295
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_common.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,800 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,800 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\dis.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,803 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,804 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,804 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,804 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\inspect.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,804 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,805 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,805 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,805 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,805 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,806 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\contextvars.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,806 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\functools.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,806 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1727594789.0753343
+DEBUG 2024-09-29 15:34:41,807 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\generator.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,807 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\mimetypes.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,807 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\collections\abc.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,807 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\traceback.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,808 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1727594779.1351311
+DEBUG 2024-09-29 15:34:41,808 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\shortcuts.py first seen with mtime 1727594777.760235
+DEBUG 2024-09-29 15:34:41,808 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\functional.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\signal.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\library.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\socketserver.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\token.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\backends\django.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\logging\handlers.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\inv_management\settings.py first seen with mtime 1727603271.6189227
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\urllib\parse.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\mail\message.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\cli.py first seen with mtime 1727594776.494723
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,809 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,809 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\importlib\_abc.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,814 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1727594776.494723
+DEBUG 2024-09-29 15:34:41,814 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\__init__.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,814 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\charset.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,814 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\collections\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,814 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\exceptions.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,814 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\validators.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,815 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1727594787.3098438
+DEBUG 2024-09-29 15:34:41,815 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\text.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,816 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,816 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\base.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,816 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1727594786.2629743
+DEBUG 2024-09-29 15:34:41,816 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,816 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\json\scanner.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1727594779.1351311
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1727594786.4817631
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\html\parser.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\numbers.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ctypes\_endian.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\fnmatch.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\list.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\queues.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\inv_management\__init__.py first seen with mtime 1727594855.774702
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1727594783.9966936
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\getpass.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\subprocess.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\autoreload.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,817 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1727594778.5570488
+DEBUG 2024-09-29 15:34:41,822 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1727594781.0750535
+DEBUG 2024-09-29 15:34:41,822 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,822 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\hashlib.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,823 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,823 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,823 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,824 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\_policybase.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,824 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,825 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\locks.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,825 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,825 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,826 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,826 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\tokenize.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,826 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\duration.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,826 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,827 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\log.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,827 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1727594779.994443
+DEBUG 2024-09-29 15:34:41,827 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,828 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,828 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,828 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1727594786.4660833
+DEBUG 2024-09-29 15:34:41,829 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1727594787.528578
+DEBUG 2024-09-29 15:34:41,829 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,829 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\unicodedata.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_ctypes.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\hmac.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_wmi.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\cookies.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,830 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_tasks.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\urllib\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,830 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\pkgutil.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,833 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\parser.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,834 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1727594786.3254688
+DEBUG 2024-09-29 15:34:41,834 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\types.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,834 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1727594779.1195076
+DEBUG 2024-09-29 15:34:41,834 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1727594786.4192276
+DEBUG 2024-09-29 15:34:41,835 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\typing.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,835 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_hashlib.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,835 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\_os.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,835 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\re\_parser.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,836 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\formats.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,836 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\http\__init__.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,836 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1727594788.6378615
+DEBUG 2024-09-29 15:34:41,836 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\http\request.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,837 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_socket.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,837 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\message.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,837 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\debug.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,837 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\asgiref\sync.py first seen with mtime 1727594777.4321315
+DEBUG 2024-09-29 15:34:41,837 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1727594779.994443
+DEBUG 2024-09-29 15:34:41,838 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\graphlib.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,838 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,838 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_utils.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,839 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\pickle.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,839 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1727594783.9966936
+DEBUG 2024-09-29 15:34:41,840 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\signals.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,840 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,840 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,840 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,841 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\format_helpers.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,841 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\encoders.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,841 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\selectors.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,841 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,841 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\log.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,843 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\heapq.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,843 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\gettext.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,844 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\socket.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,844 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1727594786.2629743
+DEBUG 2024-09-29 15:34:41,844 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\utils.py first seen with mtime 1727594789.0753343
+DEBUG 2024-09-29 15:34:41,845 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\copy.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,845 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\streams.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,845 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\__init__.py first seen with mtime 1727594777.760235
+DEBUG 2024-09-29 15:34:41,845 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,846 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1727594786.3254688
+DEBUG 2024-09-29 15:34:41,846 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\glob.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,846 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\management\color.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,847 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,847 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\wsgiref\simple_server.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,847 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\encodings\aliases.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\base.py first seen with mtime 1727594786.4660833
+DEBUG 2024-09-29 15:34:41,848 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ast.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,848 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\base.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\hashable.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\signing.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1727594786.3254688
+DEBUG 2024-09-29 15:34:41,848 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_zoneinfo.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\platform.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_subprocess.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\sql.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\utils.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1727594786.434835
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,848 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,853 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\opcode.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,853 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,853 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\dates.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,853 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\transports.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,854 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,854 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_uuid.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,854 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\concurrent\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,854 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\images.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,854 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_ssl.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,855 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1727594787.3253984
+DEBUG 2024-09-29 15:34:41,855 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\exceptions.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,855 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\wsgi.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,856 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,856 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\gzip.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,856 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\bz2.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\formsets.py first seen with mtime 1727594788.6534226
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\difflib.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1727594776.494723
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\_compression.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\transaction.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\iterators.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\html.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,857 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\smartif.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,857 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_bz2.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,863 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\dataclasses.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,863 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1727594790.0439456
+DEBUG 2024-09-29 15:34:41,863 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\encodings\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,863 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,863 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,864 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ctypes\wintypes.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,864 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\subprocess.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,864 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1727594778.5570488
+DEBUG 2024-09-29 15:34:41,864 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\_markupbase.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,865 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1727594777.4009564
+DEBUG 2024-09-29 15:34:41,865 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,865 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,865 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\select.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,866 autoreload File D:\Django\project\inv_management\inventory\apps.py first seen with mtime 1727595004.54741
+DEBUG 2024-09-29 15:34:41,866 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\mime\text.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,866 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1727594788.2628288
+DEBUG 2024-09-29 15:34:41,866 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\re\_casefix.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,866 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\management\base.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,867 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\re\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\inspect.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,867 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\http\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1727594778.0883334
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\constants.py first seen with mtime 1727594786.4660833
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1727594778.1039574
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\utils.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1727594778.1039574
+DEBUG 2024-09-29 15:34:41,867 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\quopri.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,867 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,872 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\calendar.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,872 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1727594778.5570488
+DEBUG 2024-09-29 15:34:41,872 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\options.py first seen with mtime 1727594786.7005117
+DEBUG 2024-09-29 15:34:41,873 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,873 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\threads.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,873 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\asgiref\local.py first seen with mtime 1727594777.416597
+DEBUG 2024-09-29 15:34:41,874 autoreload File D:\Django\project\inv_management\inventory\__init__.py first seen with mtime 1727595003.7069032
+DEBUG 2024-09-29 15:34:41,874 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\widgets.py first seen with mtime 1727594789.090891
+DEBUG 2024-09-29 15:34:41,874 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,874 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\errors.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,875 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,875 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,875 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,876 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\conf\__init__.py first seen with mtime 1727594777.7758565
+DEBUG 2024-09-29 15:34:41,876 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\operator.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,876 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,876 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,877 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\secrets.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,877 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\html\entities.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,877 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,877 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\move.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,877 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\context.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,878 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,878 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1727594786.3254688
+DEBUG 2024-09-29 15:34:41,878 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\forms\models.py first seen with mtime 1727594789.0753343
+DEBUG 2024-09-29 15:34:41,878 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\ipaddress.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,878 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1727594787.3098438
+DEBUG 2024-09-29 15:34:41,878 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1727594790.0283215
+DEBUG 2024-09-29 15:34:41,879 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,879 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\__init__.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,879 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,879 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,880 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,880 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\decorators.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,880 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,880 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1727594790.0439456
+DEBUG 2024-09-29 15:34:41,880 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\crypto.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,881 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1727594779.1351311
+DEBUG 2024-09-29 15:34:41,881 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\wsgiref\util.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,881 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,881 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\manager.py first seen with mtime 1727594786.7005117
+DEBUG 2024-09-29 15:34:41,881 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\http\response.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,881 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\converters.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,883 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,883 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,883 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\utils.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,883 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\bisect.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,883 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\cache.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,884 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\tempfile.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,884 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\trsock.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,884 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1727594779.994443
+DEBUG 2024-09-29 15:34:41,885 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1727594786.8254633
+DEBUG 2024-09-29 15:34:41,885 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\random.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,885 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\queue.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,885 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,886 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1727594786.434835
+DEBUG 2024-09-29 15:34:41,886 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,886 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,886 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1727594790.0283215
+DEBUG 2024-09-29 15:34:41,887 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\timesince.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,887 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\base64.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,887 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\_encoded_words.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,887 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\argparse.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,888 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1727594783.5592263
+DEBUG 2024-09-29 15:34:41,888 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\timezone.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,888 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,889 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1727594787.3253984
+DEBUG 2024-09-29 15:34:41,889 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,890 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,890 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,890 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\paginator.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,891 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\safestring.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,891 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1727594786.7005117
+DEBUG 2024-09-29 15:34:41,891 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1727594786.3098445
+DEBUG 2024-09-29 15:34:41,891 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,891 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\_weakrefset.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,894 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,894 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\middleware\cache.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,894 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1727594790.0439456
+DEBUG 2024-09-29 15:34:41,895 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1727594786.403588
+DEBUG 2024-09-29 15:34:41,895 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1727594776.494723
+DEBUG 2024-09-29 15:34:41,895 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\enum.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,896 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,896 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\re\_constants.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,896 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\selector_events.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,897 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\base.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,897 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\message.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,897 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1727594776.494723
+DEBUG 2024-09-29 15:34:41,898 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\re\_compiler.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,898 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1727594778.5726728
+DEBUG 2024-09-29 15:34:41,898 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,898 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,898 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,898 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1727594786.4504595
+DEBUG 2024-09-29 15:34:41,899 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\threading.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\query.py first seen with mtime 1727594786.7005117
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\response.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\utils.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1727594786.434835
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\files.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,899 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_overlapped.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1727594777.416597
+DEBUG 2024-09-29 15:34:41,899 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,899 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\utils.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,899 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\struct.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,899 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1727594786.2629743
+DEBUG 2024-09-29 15:34:41,903 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1727594786.966105
+DEBUG 2024-09-29 15:34:41,903 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,903 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1727594786.9816706
+DEBUG 2024-09-29 15:34:41,903 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\contentmanager.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,904 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,904 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1727594788.2628288
+DEBUG 2024-09-29 15:34:41,904 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1727594779.1195076
+DEBUG 2024-09-29 15:34:41,904 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\engine.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,905 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1727594786.278597
+DEBUG 2024-09-29 15:34:41,905 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\shutil.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,905 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\html\__init__.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,906 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,906 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\connection.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,906 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1727594790.0908165
+DEBUG 2024-09-29 15:34:41,906 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1727594776.5103245
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\reprlib.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1727594786.8410566
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\email\quoprimime.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\locale.py first seen with mtime 1717683852.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1727594786.3410923
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\sysconfig.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\http.py first seen with mtime 1727594790.0751925
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1727594790.0126972
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\core\files\temp.py first seen with mtime 1727594786.294221
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1727594789.9970734
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\DLLs\_asyncio.pyd first seen with mtime 1717683902.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_futures.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\taskgroups.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\pprint.py first seen with mtime 1712654418.0
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\utils\choices.py first seen with mtime 1727594790.0595686
+DEBUG 2024-09-29 15:34:41,907 autoreload File D:\Django\project\inv_management\myenv\Lib\site-packages\django\template\loader.py first seen with mtime 1727594790.0126972
+INFO 2024-09-29 15:38:37,111 views Registering a new user
+INFO 2024-09-29 15:39:37,273 views Registering a new user
+DEBUG 2024-09-29 15:39:37,778 utils (0.016) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+DEBUG 2024-09-29 15:39:37,801 utils (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+INFO 2024-09-29 15:39:49,834 views Registering a new user
+DEBUG 2024-09-29 15:39:49,978 utils (0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+DEBUG 2024-09-29 15:39:49,978 utils (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+DEBUG 2024-09-29 15:39:49,978 utils (0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+DEBUG 2024-09-29 15:39:49,978 utils (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+DEBUG 2024-09-29 15:39:49,998 utils (0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+DEBUG 2024-09-29 15:39:49,999 utils (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+DEBUG 2024-09-29 15:39:50,001 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+DEBUG 2024-09-29 15:39:50,002 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'admin' AND "django_content_type"."model" IN ('logentry')); args=('admin', 'logentry'); alias=default
+DEBUG 2024-09-29 15:39:50,004 utils (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (1) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1,); alias=default
+DEBUG 2024-09-29 15:39:50,005 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+DEBUG 2024-09-29 15:39:50,006 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+DEBUG 2024-09-29 15:39:50,008 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" IN ('group', 'user', 'permission')); args=('auth', 'group', 'user', 'permission'); alias=default
+DEBUG 2024-09-29 15:39:50,009 utils (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (2, 3, 4) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(2, 3, 4); alias=default
+DEBUG 2024-09-29 15:39:50,009 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+DEBUG 2024-09-29 15:39:50,012 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG 2024-09-29 15:39:50,014 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'contenttypes' AND "django_content_type"."model" IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+DEBUG 2024-09-29 15:39:50,016 utils (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (5) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(5,); alias=default
+DEBUG 2024-09-29 15:39:50,017 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG 2024-09-29 15:39:50,018 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+DEBUG 2024-09-29 15:39:50,019 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sessions' AND "django_content_type"."model" IN ('session')); args=('sessions', 'session'); alias=default
+DEBUG 2024-09-29 15:39:50,021 utils (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (6) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(6,); alias=default
+DEBUG 2024-09-29 15:39:50,024 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+DEBUG 2024-09-29 15:39:50,025 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'inventory'; args=('inventory',); alias=default
+DEBUG 2024-09-29 15:39:50,026 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'inventory' AND "django_content_type"."model" IN ('item')); args=('inventory', 'item'); alias=default
+DEBUG 2024-09-29 15:39:50,026 utils (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (7) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(7,); alias=default
+DEBUG 2024-09-29 15:39:50,026 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'inventory'; args=('inventory',); alias=default
+DEBUG 2024-09-29 15:39:50,026 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'rest_framework_simplejwt'; args=('rest_framework_simplejwt',); alias=default
+DEBUG 2024-09-29 15:39:50,031 utils (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'rest_framework_simplejwt'; args=('rest_framework_simplejwt',); alias=default
+INFO 2024-09-29 15:40:23,308 views Registering a new user
+DEBUG 2024-09-29 15:40:59,246 schema CREATE TABLE "django_migrations" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "app" varchar(255) NOT NULL, "name" varchar(255) NOT NULL, "applied" datetime NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,246 schema CREATE TABLE "django_content_type" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(100) NOT NULL, "app_label" varchar(100) NOT NULL, "model" varchar(100) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,246 schema CREATE UNIQUE INDEX "django_content_type_app_label_model_76bd3d3b_uniq" ON "django_content_type" ("app_label", "model"); (params ())
+DEBUG 2024-09-29 15:40:59,257 schema CREATE TABLE "auth_permission" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(50) NOT NULL, "content_type_id" integer NOT NULL REFERENCES "django_content_type" ("id") DEFERRABLE INITIALLY DEFERRED, "codename" varchar(100) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,261 schema CREATE TABLE "auth_group" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(80) NOT NULL UNIQUE); (params None)
+DEBUG 2024-09-29 15:40:59,262 schema CREATE TABLE "auth_group_permissions" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "group_id" integer NOT NULL REFERENCES "auth_group" ("id") DEFERRABLE INITIALLY DEFERRED, "permission_id" integer NOT NULL REFERENCES "auth_permission" ("id") DEFERRABLE INITIALLY DEFERRED); (params None)
+DEBUG 2024-09-29 15:40:59,266 schema CREATE TABLE "auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "last_login" datetime NOT NULL, "is_superuser" bool NOT NULL, "username" varchar(30) NOT NULL UNIQUE, "first_name" varchar(30) NOT NULL, "last_name" varchar(30) NOT NULL, "email" varchar(75) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,266 schema CREATE TABLE "auth_user_groups" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "user_id" integer NOT NULL REFERENCES "auth_user" ("id") DEFERRABLE INITIALLY DEFERRED, "group_id" integer NOT NULL REFERENCES "auth_group" ("id") DEFERRABLE INITIALLY DEFERRED); (params None)
+DEBUG 2024-09-29 15:40:59,269 schema CREATE TABLE "auth_user_user_permissions" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "user_id" integer NOT NULL REFERENCES "auth_user" ("id") DEFERRABLE INITIALLY DEFERRED, "permission_id" integer NOT NULL REFERENCES "auth_permission" ("id") DEFERRABLE INITIALLY DEFERRED); (params None)
+DEBUG 2024-09-29 15:40:59,270 schema CREATE UNIQUE INDEX "auth_permission_content_type_id_codename_01ab375a_uniq" ON "auth_permission" ("content_type_id", "codename"); (params None)
+DEBUG 2024-09-29 15:40:59,270 schema CREATE INDEX "auth_permission_content_type_id_2f476e4b" ON "auth_permission" ("content_type_id"); (params None)
+DEBUG 2024-09-29 15:40:59,271 schema CREATE UNIQUE INDEX "auth_group_permissions_group_id_permission_id_0cd325b0_uniq" ON "auth_group_permissions" ("group_id", "permission_id"); (params None)
+DEBUG 2024-09-29 15:40:59,271 schema CREATE INDEX "auth_group_permissions_group_id_b120cbf9" ON "auth_group_permissions" ("group_id"); (params None)
+DEBUG 2024-09-29 15:40:59,271 schema CREATE INDEX "auth_group_permissions_permission_id_84c5c92e" ON "auth_group_permissions" ("permission_id"); (params None)
+DEBUG 2024-09-29 15:40:59,272 schema CREATE UNIQUE INDEX "auth_user_groups_user_id_group_id_94350c0c_uniq" ON "auth_user_groups" ("user_id", "group_id"); (params None)
+DEBUG 2024-09-29 15:40:59,272 schema CREATE INDEX "auth_user_groups_user_id_6a12ed8b" ON "auth_user_groups" ("user_id"); (params None)
+DEBUG 2024-09-29 15:40:59,273 schema CREATE INDEX "auth_user_groups_group_id_97559544" ON "auth_user_groups" ("group_id"); (params None)
+DEBUG 2024-09-29 15:40:59,273 schema CREATE UNIQUE INDEX "auth_user_user_permissions_user_id_permission_id_14a6b632_uniq" ON "auth_user_user_permissions" ("user_id", "permission_id"); (params None)
+DEBUG 2024-09-29 15:40:59,273 schema CREATE INDEX "auth_user_user_permissions_user_id_a95ead1b" ON "auth_user_user_permissions" ("user_id"); (params None)
+DEBUG 2024-09-29 15:40:59,274 schema CREATE INDEX "auth_user_user_permissions_permission_id_1fbb5f2c" ON "auth_user_user_permissions" ("permission_id"); (params None)
+DEBUG 2024-09-29 15:40:59,281 schema CREATE TABLE "django_admin_log" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "action_time" datetime NOT NULL, "object_id" text NULL, "object_repr" varchar(200) NOT NULL, "action_flag" smallint unsigned NOT NULL CHECK ("action_flag" >= 0), "change_message" text NOT NULL, "content_type_id" integer NULL REFERENCES "django_content_type" ("id") DEFERRABLE INITIALLY DEFERRED, "user_id" integer NOT NULL REFERENCES "auth_user" ("id") DEFERRABLE INITIALLY DEFERRED); (params None)
+DEBUG 2024-09-29 15:40:59,282 schema CREATE INDEX "django_admin_log_content_type_id_c4bce8eb" ON "django_admin_log" ("content_type_id"); (params None)
+DEBUG 2024-09-29 15:40:59,283 schema CREATE INDEX "django_admin_log_user_id_c564eba6" ON "django_admin_log" ("user_id"); (params None)
+DEBUG 2024-09-29 15:40:59,289 schema CREATE TABLE "new__django_admin_log" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "object_id" text NULL, "object_repr" varchar(200) NOT NULL, "action_flag" smallint unsigned NOT NULL CHECK ("action_flag" >= 0), "change_message" text NOT NULL, "content_type_id" integer NULL REFERENCES "django_content_type" ("id") DEFERRABLE INITIALLY DEFERRED, "user_id" integer NOT NULL REFERENCES "auth_user" ("id") DEFERRABLE INITIALLY DEFERRED, "action_time" datetime NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,290 schema INSERT INTO "new__django_admin_log" ("id", "object_id", "object_repr", "action_flag", "change_message", "content_type_id", "user_id", "action_time") SELECT "id", "object_id", "object_repr", "action_flag", "change_message", "content_type_id", "user_id", "action_time" FROM "django_admin_log"; (params ())
+DEBUG 2024-09-29 15:40:59,291 schema DROP TABLE "django_admin_log"; (params ())
+DEBUG 2024-09-29 15:40:59,291 schema ALTER TABLE "new__django_admin_log" RENAME TO "django_admin_log"; (params ())
+DEBUG 2024-09-29 15:40:59,292 schema CREATE INDEX "django_admin_log_content_type_id_c4bce8eb" ON "django_admin_log" ("content_type_id"); (params ())
+DEBUG 2024-09-29 15:40:59,293 schema CREATE INDEX "django_admin_log_user_id_c564eba6" ON "django_admin_log" ("user_id"); (params ())
+DEBUG 2024-09-29 15:40:59,300 schema CREATE TABLE "new__django_content_type" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "app_label" varchar(100) NOT NULL, "model" varchar(100) NOT NULL, "name" varchar(100) NULL); (params None)
+DEBUG 2024-09-29 15:40:59,300 schema INSERT INTO "new__django_content_type" ("id", "app_label", "model", "name") SELECT "id", "app_label", "model", "name" FROM "django_content_type"; (params ())
+DEBUG 2024-09-29 15:40:59,300 schema DROP TABLE "django_content_type"; (params ())
+DEBUG 2024-09-29 15:40:59,305 schema ALTER TABLE "new__django_content_type" RENAME TO "django_content_type"; (params ())
+DEBUG 2024-09-29 15:40:59,306 schema CREATE UNIQUE INDEX "django_content_type_app_label_model_76bd3d3b_uniq" ON "django_content_type" ("app_label", "model"); (params ())
+DEBUG 2024-09-29 15:40:59,307 schema ALTER TABLE "django_content_type" DROP COLUMN "name"; (params ())
+DEBUG 2024-09-29 15:40:59,320 schema CREATE TABLE "new__auth_permission" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "content_type_id" integer NOT NULL REFERENCES "django_content_type" ("id") DEFERRABLE INITIALLY DEFERRED, "codename" varchar(100) NOT NULL, "name" varchar(255) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,322 schema INSERT INTO "new__auth_permission" ("id", "content_type_id", "codename", "name") SELECT "id", "content_type_id", "codename", "name" FROM "auth_permission"; (params ())
+DEBUG 2024-09-29 15:40:59,323 schema DROP TABLE "auth_permission"; (params ())
+DEBUG 2024-09-29 15:40:59,323 schema ALTER TABLE "new__auth_permission" RENAME TO "auth_permission"; (params ())
+DEBUG 2024-09-29 15:40:59,324 schema CREATE UNIQUE INDEX "auth_permission_content_type_id_codename_01ab375a_uniq" ON "auth_permission" ("content_type_id", "codename"); (params ())
+DEBUG 2024-09-29 15:40:59,324 schema CREATE INDEX "auth_permission_content_type_id_2f476e4b" ON "auth_permission" ("content_type_id"); (params ())
+DEBUG 2024-09-29 15:40:59,324 schema CREATE TABLE "new__auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "last_login" datetime NOT NULL, "is_superuser" bool NOT NULL, "username" varchar(30) NOT NULL UNIQUE, "first_name" varchar(30) NOT NULL, "last_name" varchar(30) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL, "email" varchar(254) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,324 schema INSERT INTO "new__auth_user" ("id", "password", "last_login", "is_superuser", "username", "first_name", "last_name", "is_staff", "is_active", "date_joined", "email") SELECT "id", "password", "last_login", "is_superuser", "username", "first_name", "last_name", "is_staff", "is_active", "date_joined", "email" FROM "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,324 schema DROP TABLE "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,334 schema ALTER TABLE "new__auth_user" RENAME TO "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,350 schema CREATE TABLE "new__auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "is_superuser" bool NOT NULL, "username" varchar(30) NOT NULL UNIQUE, "first_name" varchar(30) NOT NULL, "last_name" varchar(30) NOT NULL, "email" varchar(254) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL, "last_login" datetime NULL); (params None)
+DEBUG 2024-09-29 15:40:59,351 schema INSERT INTO "new__auth_user" ("id", "password", "is_superuser", "username", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined", "last_login") SELECT "id", "password", "is_superuser", "username", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined", "last_login" FROM "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,352 schema DROP TABLE "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,352 schema ALTER TABLE "new__auth_user" RENAME TO "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,367 schema CREATE TABLE "new__auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "last_login" datetime NULL, "is_superuser" bool NOT NULL, "first_name" varchar(30) NOT NULL, "last_name" varchar(30) NOT NULL, "email" varchar(254) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL, "username" varchar(150) NOT NULL UNIQUE); (params None)
+DEBUG 2024-09-29 15:40:59,368 schema INSERT INTO "new__auth_user" ("id", "password", "last_login", "is_superuser", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined", "username") SELECT "id", "password", "last_login", "is_superuser", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined", "username" FROM "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,368 schema DROP TABLE "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,368 schema ALTER TABLE "new__auth_user" RENAME TO "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,410 schema CREATE TABLE "new__auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "last_login" datetime NULL, "is_superuser" bool NOT NULL, "username" varchar(150) NOT NULL UNIQUE, "first_name" varchar(30) NOT NULL, "email" varchar(254) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL, "last_name" varchar(150) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,413 schema INSERT INTO "new__auth_user" ("id", "password", "last_login", "is_superuser", "username", "first_name", "email", "is_staff", "is_active", "date_joined", "last_name") SELECT "id", "password", "last_login", "is_superuser", "username", "first_name", "email", "is_staff", "is_active", "date_joined", "last_name" FROM "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,414 schema DROP TABLE "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,415 schema ALTER TABLE "new__auth_user" RENAME TO "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,426 schema CREATE TABLE "new__auth_group" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(150) NOT NULL UNIQUE); (params None)
+DEBUG 2024-09-29 15:40:59,427 schema INSERT INTO "new__auth_group" ("id", "name") SELECT "id", "name" FROM "auth_group"; (params ())
+DEBUG 2024-09-29 15:40:59,427 schema DROP TABLE "auth_group"; (params ())
+DEBUG 2024-09-29 15:40:59,427 schema ALTER TABLE "new__auth_group" RENAME TO "auth_group"; (params ())
+DEBUG 2024-09-29 15:40:59,442 schema CREATE TABLE "new__auth_user" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "password" varchar(128) NOT NULL, "last_login" datetime NULL, "is_superuser" bool NOT NULL, "username" varchar(150) NOT NULL UNIQUE, "last_name" varchar(150) NOT NULL, "email" varchar(254) NOT NULL, "is_staff" bool NOT NULL, "is_active" bool NOT NULL, "date_joined" datetime NOT NULL, "first_name" varchar(150) NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,443 schema INSERT INTO "new__auth_user" ("id", "password", "last_login", "is_superuser", "username", "last_name", "email", "is_staff", "is_active", "date_joined", "first_name") SELECT "id", "password", "last_login", "is_superuser", "username", "last_name", "email", "is_staff", "is_active", "date_joined", "first_name" FROM "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,443 schema DROP TABLE "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,444 schema ALTER TABLE "new__auth_user" RENAME TO "auth_user"; (params ())
+DEBUG 2024-09-29 15:40:59,447 schema CREATE TABLE "inventory_item" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(100) NOT NULL UNIQUE, "description" text NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,448 schema CREATE TABLE "django_session" ("session_key" varchar(40) NOT NULL PRIMARY KEY, "session_data" text NOT NULL, "expire_date" datetime NOT NULL); (params None)
+DEBUG 2024-09-29 15:40:59,449 schema CREATE INDEX "django_session_expire_date_a5c62663" ON "django_session" ("expire_date"); (params None)
+INFO 2024-09-29 15:40:59,619 views Registering a new user
+INFO 2024-09-29 15:41:00,448 views Creating a new item
+INFO 2024-09-29 15:41:00,448 views Item created successfully: 2
+INFO 2024-09-29 15:41:01,278 views Creating a new item
+ERROR 2024-09-29 15:41:01,278 views Error creating item: {'name': [ErrorDetail(string='item with this name already exists.', code='unique')]}
+WARNING 2024-09-29 15:41:01,302 log Bad Request: /item/
+INFO 2024-09-29 15:41:02,062 views Deleting item with id: 1
+ERROR 2024-09-29 15:41:04,116 log Internal Server Error: /item/1/
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 104, in delete
+    result = self.client.delete(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 375, in delete
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\inv_management\inventory\views.py", line 73, in delete
+    cache.delete(cache_key)
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 373, in delete
+    return client.delete(self.make_key(key, version=version, prefix=prefix))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\commands\core.py", line 1705, in delete
+    return self.execute_command("DEL", *names)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 1423, in get_connection
+    connection.connect()
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 364, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+INFO 2024-09-29 15:41:05,040 views Fetching item with id: 1
+ERROR 2024-09-29 15:41:07,063 log Internal Server Error: /item/1/
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\inv_management\inventory\views.py", line 49, in get
+    item_data = get_cache(cache_key)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\inv_management\inventory\utils.py", line 4, in get_cache
+    return cache.get(key)
+           ^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 1423, in get_connection
+    connection.connect()
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 364, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+INFO 2024-09-29 15:41:07,818 views Listing all items
+ERROR 2024-09-29 15:41:08,567 log Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\inv_management\inventory\serializers.py", line 13, in create
+    user = User.objects.create_user(validated_data['username'], validated_data['email'], validated_data['password'])
+                                                                ~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'email'
+INFO 2024-09-29 15:41:09,321 views Updating item with id: 1
+ERROR 2024-09-29 15:41:11,343 log Internal Server Error: /item/1/
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 81, in set
+    return self.client.set(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 185, in set
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django\project\myenv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\inv_management\inventory\views.py", line 62, in put
+    set_cache(cache_key, serializer.data)
+  File "D:\Django\project\inv_management\inventory\utils.py", line 7, in set_cache
+    cache.set(key, value, timeout)
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\Django\project\myenv\Lib\site-packages\django_redis\client\default.py", line 175, in set
+    return bool(client.set(nkey, nvalue, nx=nx, px=timeout, xx=xx))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\commands\core.py", line 2335, in set
+    return self.execute_command("SET", *pieces, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 1423, in get_connection
+    connection.connect()
+  File "D:\Django\project\myenv\Lib\site-packages\redis\connection.py", line 364, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+INFO 2024-09-29 15:49:57,865 views Registering a new user
+INFO 2024-09-29 15:52:22,870 views Registering a new user
+INFO 2024-09-29 15:52:50,115 views Registering a new user
+INFO 2024-09-29 15:54:22,522 views Registering a new user
+INFO 2024-09-29 15:54:27,616 views Registering a new user
+INFO 2024-09-29 15:55:35,609 views Registering a new user
+INFO 2024-09-29 15:59:57,927 views Registering a new user
+INFO 2024-09-29 16:01:33,335 views Registering a new user
+INFO 2024-09-29 16:01:51,409 views Registering a new user
+INFO 2024-09-29 16:05:13,870 views Registering a new user
+INFO 2024-09-29 16:16:08,718 views Registering a new user
+INFO 2024-09-29 16:17:18,834 views Registering a new user
+INFO 2024-09-29 16:17:55,201 views Registering a new user
+INFO 2024-09-29 16:18:01,206 views Registering a new user
+INFO 2024-09-29 16:18:05,597 views Registering a new user
+INFO 2024-09-29 16:18:21,723 views Registering a new user
+INFO 2024-09-29 16:20:33,667 views Registering a new user
+INFO 2024-09-29 16:20:58,639 views Registering a new user
+INFO 2024-09-29 16:29:58,751 views Registering a new user
+INFO 2024-09-29 16:31:33,368 views Registering a new user
